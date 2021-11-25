@@ -42,5 +42,4 @@ public class TestFxPro {
         Thread.sleep(2000);
         driver.quit();
     }
-
 }
